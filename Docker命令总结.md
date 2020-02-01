@@ -147,33 +147,15 @@ docker run -d
 
 
 
-```shell
-docker logs
-```
-
-查看容器日志
 
 
+---
+
+查询本机docker镜像
 
 ```shell
-docker top
+[root@localhost ~]# docker images
+REPOSITORY            TAG                 IMAGE ID            CREATED             SIZE
+openresty/openresty   latest              3c9e8cc37fa4        3 days ago          84.8MB
 ```
-
-查看容器内运行的进程
-
-
-
-```shell
-docker exec
-```
-
-在容器内创建一个进程
-
-
-
-```shell
-docker stop/kill
-```
-
-停止或杀掉一个运行的容器
 
