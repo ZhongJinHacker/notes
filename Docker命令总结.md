@@ -52,6 +52,8 @@ docker run --name=自定义名 -i -t IMAGE /bin/bash
 docker start [-i] 容器名
 ```
 
+==-i 交互式打开==
+
 
 
 删除已停止的容器
