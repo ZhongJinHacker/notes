@@ -3,7 +3,7 @@
 ```shell
 //查询开机启动项
 systemctl list-unit-files
-// 输出 UNIT FILE 对应服务名；STATE 是状态：enable 是开启启动，disable是开机不启动
+// 输出 UNIT FILE 对应服务名；STATE 是状态：enable 是开机启动，disable是开机不启动
 UNIT FILE                                     STATE
 proc-sys-fs-binfmt_misc.automount             static
 dev-hugepages.mount                           static
