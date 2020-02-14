@@ -126,5 +126,29 @@
 
 [Centos_yum使用.md](https://github.com/ZhongJinHacker/notes/blob/master/linux/Centos_yum使用.md)
 
+[Linux_etc-passwd文件总结.md](https://github.com/ZhongJinHacker/notes/blob/master/linux/Linux_etc-passwd文件总结.md)
+
+[Linux_etc-shadow文件总结.md](https://github.com/ZhongJinHacker/notes/blob/master/linux/Linux_etc-shadow文件总结.md)
+
+[Linux_more_less总结.md](https://github.com/ZhongJinHacker/notes/blob/master/linux/Linux_more_less总结.md)
+
+[Linux_ps总结.md](https://github.com/ZhongJinHacker/notes/blob/master/linux/Linux_ps总结.md)
+
+[Linux_tail总结.md](https://github.com/ZhongJinHacker/notes/blob/master/linux/Linux_tail总结.md)
+
+[Linux常用脚本命令总结.md](https://github.com/ZhongJinHacker/notes/blob/master/linux/Linux常用脚本命令总结.md)
+
+[Mac_linux_ssh防掉线.md](https://github.com/ZhongJinHacker/notes/blob/master/linux/Mac_linux_ssh防掉线.md)
+
+[Mac_mysql_密码重置.md](https://github.com/ZhongJinHacker/notes/blob/master/linux/Mac_mysql_密码重置.md)
+
+[centOS查看修改时区.md](https://github.com/ZhongJinHacker/notes/blob/master/linux/centOS查看修改时区.md)
+
+[centos7关闭防火墙.md](https://github.com/ZhongJinHacker/notes/blob/master/linux/centos7关闭防火墙.md)
+
+[systemctl_用法总结.md](https://github.com/ZhongJinHacker/notes/blob/master/linux/systemctl_用法总结.md)
+
+
+
 
 
