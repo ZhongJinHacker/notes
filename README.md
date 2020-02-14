@@ -84,3 +84,17 @@
 
 
 
+### java
+
+[Java8_Optional总结.md](https://github.com/ZhongJinHacker/notes/blob/master/java/Java8_Optional总结.md)
+
+[ThreadLocal原理.md](https://github.com/ZhongJinHacker/notes/blob/master/java/ThreadLocal原理.md)
+
+
+
+### K8S
+
+[CentOS7_K8S安装指南.md](https://github.com/ZhongJinHacker/notes/blob/master/k8s/CentOS7_K8S安装指南.md)
+
+
+
