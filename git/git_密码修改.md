@@ -11,3 +11,4 @@ git config --system --unset credential.helper
  ```
 
 再次执行git 操作时就可以输入新的密码了，并会重新再本地得到保存
+
