@@ -32,6 +32,6 @@
 
 ### docker-compose
 
-[{翻译}docker-compose概述.md](https://github.com/ZhongJinHacker/notes/blob/master/docker-compose/[翻译]docker-compose概述.md)
+[{翻译}docker-compose概述.md](https://github.com/ZhongJinHacker/notes/blob/master/docker-compose/%7B%E7%BF%BB%E8%AF%91%7Ddocker-compose%E6%A6%82%E8%BF%B0.md)
 
 [docker-compose总结.md](https://github.com/ZhongJinHacker/notes/blob/master/docker-compose/docker-compose总结.md)
