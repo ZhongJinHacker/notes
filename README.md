@@ -120,5 +120,11 @@
 
 
 
+### Linux
+
+[CentOS7_SSH_安装终结.md](https://github.com/ZhongJinHacker/notes/blob/master/linux/CentOS7_SSH_安装终结.md)
+
+[Centos_yum使用.md](https://github.com/ZhongJinHacker/notes/blob/master/linux/Centos_yum使用.md)
+
 
 
