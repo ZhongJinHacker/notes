@@ -66,7 +66,7 @@
 
 ### git
 
-[git 密码修改.md](https://github.com/ZhongJinHacker/notes/blob/master/git/git 密码修改.md)
+[git_密码修改.md](https://github.com/ZhongJinHacker/notes/blob/master/git/git_密码修改.md)
 
 [git_cherry-pick总结.md](https://github.com/ZhongJinHacker/notes/blob/master/git/git_cherry-pick总结.md)
 
