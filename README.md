@@ -238,3 +238,53 @@
 
 
 
+### SpringCloud
+
+[nacos多环境配置.md](https://github.com/ZhongJinHacker/notes/blob/master/springcloud/nacos多环境配置.md)
+
+[nacos安装总结.md](https://github.com/ZhongJinHacker/notes/blob/master/springcloud/nacos安装总结.md)
+
+[单点登录原理.md](https://github.com/ZhongJinHacker/notes/blob/master/springcloud/单点登录原理.md)
+
+[微服务架构模式.md](https://github.com/ZhongJinHacker/notes/blob/master/springcloud/微服务架构模式.md)
+
+
+
+
+
+### 设计模式
+
+[设计模式解决的问题.md](https://github.com/ZhongJinHacker/notes/blob/master/设计模式/设计模式解决的问题.md)
+
+
+
+### 算法
+
+[时间复杂度总结.md](https://github.com/ZhongJinHacker/notes/blob/master/算法/时间复杂度总结.md)
+
+
+
+### 其他
+
+[IDEA_MAC快捷键总结.md](https://github.com/ZhongJinHacker/notes/blob/master/其他/IDEA_MAC快捷键总结.md)
+
+[IDEA_MAVEN_导包问题总结.md](https://github.com/ZhongJinHacker/notes/blob/master/其他/IDEA_MAVEN_导包问题总结.md)
+
+[MarkDown学习.md](https://github.com/ZhongJinHacker/notes/blob/master/其他/MarkDown学习.md)
+
+[OpenVim_translate.md](https://github.com/ZhongJinHacker/notes/blob/master/其他/OpenVim_translate.md)
+
+[QPS_TPS_吞吐量概念总结.md](https://github.com/ZhongJinHacker/notes/blob/master/其他/QPS_TPS_吞吐量概念总结.md)
+
+[UUID_总结.md](https://github.com/ZhongJinHacker/notes/blob/master/其他/UUID_总结.md)
+
+[homebrew更新源.md](https://github.com/ZhongJinHacker/notes/blob/master/其他/homebrew更新源.md)
+
+[python总结.md](https://github.com/ZhongJinHacker/notes/blob/master/其他/python总结.md)
+
+[python操作mysql导入导出总结.md](https://github.com/ZhongJinHacker/notes/blob/master/其他/python操作mysql导入导出总结.md)
+
+[tomcat安装总结.md](https://github.com/ZhongJinHacker/notes/blob/master/其他/tomcat安装总结.md)
+
+
+
