@@ -96,5 +96,29 @@
 
 [CentOS7_K8S安装指南.md](https://github.com/ZhongJinHacker/notes/blob/master/k8s/CentOS7_K8S安装指南.md)
 
+[K8S_CNI.md](https://github.com/ZhongJinHacker/notes/blob/master/k8s/K8S_CNI.md)
+
+[K8S_Pod及其控制器.md](https://github.com/ZhongJinHacker/notes/blob/master/k8s/K8S_Pod及其控制器.md)
+
+[K8S_Service_Ingress.md](https://github.com/ZhongJinHacker/notes/blob/master/k8s/K8S_Service_Ingress.md)
+
+[K8S_name_namespace.md](https://github.com/ZhongJinHacker/notes/blob/master/k8s/K8S_name_namespace.md)
+
+[K8S_三种Port区别总结.md](https://github.com/ZhongJinHacker/notes/blob/master/k8s/K8S_三种Port区别总结.md)
+
+[K8S_删除Pod总结.md](https://github.com/ZhongJinHacker/notes/blob/master/k8s/K8S_删除Pod总结.md)
+
+[K8S_常用指令.md](https://github.com/ZhongJinHacker/notes/blob/master/k8s/K8S_常用指令.md)
+
+[K8S_总结.md](https://github.com/ZhongJinHacker/notes/blob/master/k8s/K8S_总结.md)
+
+[K8S之YAML配置文件.md](https://github.com/ZhongJinHacker/notes/blob/master/k8s/K8S之YAML配置文件.md)
+
+[K8S部署超过节点的Pod.md](https://github.com/ZhongJinHacker/notes/blob/master/k8s/K8S部署超过节点的Pod.md)
+
+[什么是元数据.md](https://github.com/ZhongJinHacker/notes/blob/master/k8s/什么是元数据.md)
+
+
+
 
 
