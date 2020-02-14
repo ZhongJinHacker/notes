@@ -10,9 +10,9 @@
 
 [Mysql_索引总结笔记.md](https://github.com/ZhongJinHacker/notes/blob/master/database/Mysql_索引总结笔记.md)
 
-[mysql explain总结.md](https://github.com/ZhongJinHacker/notes/blob/master/database/mysql explain总结.md)
+[mysql explain总结.md](https://github.com/ZhongJinHacker/notes/blob/master/database/mysql%20explain总结.md)
 
-[mysql 事务总结.md](https://github.com/ZhongJinHacker/notes/blob/master/database/mysql 事务总结.md)
+[mysql 事务总结.md](https://github.com/ZhongJinHacker/notes/blob/master/database/mysql%20事务总结.md.md)
 
 [mysql8.0及以上修改Root密码.md](https://github.com/ZhongJinHacker/notes/blob/master/database/mysql8.0及以上修改Root密码.md)
 
