@@ -192,7 +192,7 @@
 
 [Session总结.md](https://github.com/ZhongJinHacker/notes/blob/master/springboot/Session总结.md)
 
-[Spring 事务总结.md](https://github.com/ZhongJinHacker/notes/blob/master/springboot/Spring 事务总结.md)
+[SpringBoot_事务总结.md](https://github.com/ZhongJinHacker/notes/blob/master/springboot/SpringBoot_事务总结.md)
 
 [SpringBoot_事务总结.md](https://github.com/ZhongJinHacker/notes/blob/master/springboot/SpringBoot_事务总结.md)
 
@@ -220,7 +220,7 @@
 
 [lombok_builder总结.md](https://github.com/ZhongJinHacker/notes/blob/master/springboot/lombok_builder总结.md)
 
-[maven 执行跳过测试.md](https://github.com/ZhongJinHacker/notes/blob/master/springboot/maven 执行跳过测试.md)
+[maven_执行跳过测试.md](https://github.com/ZhongJinHacker/notes/blob/master/springboot/maven_执行跳过测试.md)
 
 [maven-scope属性.md](https://github.com/ZhongJinHacker/notes/blob/master/springboot/maven-scope属性.md)
 
