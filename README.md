@@ -62,3 +62,25 @@
 
 [Docker命令总结.md](https://github.com/ZhongJinHacker/notes/blob/master/docker/Docker命令总结.md)
 
+
+
+### git
+
+[git 密码修改.md](https://github.com/ZhongJinHacker/notes/blob/master/git/git 密码修改.md)
+
+[git_cherry-pick总结.md](https://github.com/ZhongJinHacker/notes/blob/master/git/git_cherry-pick总结.md)
+
+[git_merge和git_rebase总结.md](https://github.com/ZhongJinHacker/notes/blob/master/git/git_merge和git_rebase总结.md)
+
+[git_rebase合并多个commit总结.md](https://github.com/ZhongJinHacker/notes/blob/master/git/git_rebase合并多个commit总结.md)
+
+[git_reset总结.md](https://github.com/ZhongJinHacker/notes/blob/master/git/git_reset总结.md)
+
+[git_revert总结.md](https://github.com/ZhongJinHacker/notes/blob/master/git/git_revert总结.md)
+
+[git_stash总结.md](https://github.com/ZhongJinHacker/notes/blob/master/git/git_stash总结.md)
+
+[git总结.md](https://github.com/ZhongJinHacker/notes/blob/master/git/git总结.md)
+
+
+
