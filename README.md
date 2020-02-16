@@ -118,6 +118,8 @@
 
 [什么是元数据.md](https://github.com/ZhongJinHacker/notes/blob/master/k8s/什么是元数据.md)
 
+[阿里云CentOS7安装K8S.md](https://github.com/ZhongJinHacker/notes/blob/master/k8s/阿里云CentOS7安装K8S.md)
+
 
 
 ### Linux
