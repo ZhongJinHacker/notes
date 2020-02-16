@@ -274,7 +274,7 @@
 
 [适配器模式.md](https://github.com/ZhongJinHacker/notes/blob/master/设计模式/适配器模式.md)
 
-
+[桥接模式.md](设计模式/桥接模式.md)
 
 
 
