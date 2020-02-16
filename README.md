@@ -264,6 +264,8 @@
 
 [简单工厂模式.md](https://github.com/ZhongJinHacker/notes/blob/master/设计模式/简单工厂模式.md)
 
+[工厂方法模式.md](https://github.com/ZhongJinHacker/notes/blob/master/设计模式/工厂方法模式.md)
+
 
 
 
