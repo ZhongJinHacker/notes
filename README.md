@@ -268,6 +268,8 @@
 
 [抽象工厂模式.md](https://github.com/ZhongJinHacker/notes/blob/master/设计模式/抽象工厂模式.md)
 
+[原型模式.md](https://github.com/ZhongJinHacker/notes/blob/master/设计模式/原型模式.md)
+
 
 
 
