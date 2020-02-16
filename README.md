@@ -260,6 +260,10 @@
 
 [设计模式解决的问题.md](https://github.com/ZhongJinHacker/notes/blob/master/设计模式/设计模式解决的问题.md)
 
+[单例模式.md](https://github.com/ZhongJinHacker/notes/blob/master/设计模式/单例模式.md)
+
+
+
 
 
 ### 算法
