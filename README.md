@@ -36,6 +36,8 @@
 
 [docker-compose总结.md](https://github.com/ZhongJinHacker/notes/blob/master/docker-compose/docker-compose总结.md)
 
+[docker-compose入门--翻译.md](https://github.com/ZhongJinHacker/notes/blob/master/docker-compose/docker-compose入门--翻译.md)
+
 
 
 ### docker
