@@ -282,6 +282,10 @@
 
 [外观模式.md](设计模式/外观模式.md)
 
+[享元模式.md](设计模式/享元模式.md)
+
+
+
 ### 算法
 
 [时间复杂度总结.md](https://github.com/ZhongJinHacker/notes/blob/master/算法/时间复杂度总结.md)
