@@ -154,6 +154,8 @@
 
 [git总结.md](https://github.com/ZhongJinHacker/notes/blob/master/git/git总结.md)
 
+[git根据历史commitID拉分支](git/git根据历史commitID拉分支.md)
+
 
 
 ### java
@@ -298,7 +300,9 @@
 
 [时间复杂度总结.md](https://github.com/ZhongJinHacker/notes/blob/master/算法/时间复杂度总结.md)
 
+[稀疏数组.md](算法/稀疏数组.md)
 
+[队列.md](算法/队列.md)
 
 ### 其他
 
