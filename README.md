@@ -304,6 +304,8 @@
 
 [队列.md](算法/队列.md)
 
+[求单链表节点个数.md](算法/求单链表节点个数.md)
+
 ### 其他
 
 [IDEA_MAC快捷键总结.md](https://github.com/ZhongJinHacker/notes/blob/master/其他/IDEA_MAC快捷键总结.md)
