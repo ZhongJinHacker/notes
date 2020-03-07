@@ -254,6 +254,10 @@
 
 [Nginx_location总结.md](https://github.com/ZhongJinHacker/notes/blob/master/nginx/Nginx_location总结.md)
 
+[Nginx超时问题解决.md](nginx/Nginx超时问题解决.md)
+
+
+
 
 
 ### Product
