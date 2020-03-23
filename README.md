@@ -66,6 +66,10 @@
 
 [分布式CAP原理.md](springcloud/分布式CAP原理.md)
 
+[Hystrix断路器总结.md](springcloud/Hystrix断路器总结.md)
+
+
+
 
 
 ### Netty
