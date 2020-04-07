@@ -68,7 +68,7 @@
 
 [Hystrix断路器总结.md](springcloud/Hystrix断路器总结.md)
 
-
+[OpenFeign总结.md](springcloud/OpenFeign总结.md)
 
 
 
