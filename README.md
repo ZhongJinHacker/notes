@@ -338,6 +338,12 @@
 
 
 
+### MongoDB
+
+[Mongodb简介.md](mongodb/Mongodb简介.md)
+
+
+
 ### 其他
 
 [IDEA_MAC快捷键总结.md](https://github.com/ZhongJinHacker/notes/blob/master/其他/IDEA_MAC快捷键总结.md)
@@ -363,4 +369,6 @@
 [灰度架构设计.md](其他\灰度架构设计.md)
 
 [IDEA_Maven工具使用.md](其他/IDEA_Maven工具使用.md)
+
+
 
