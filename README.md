@@ -72,6 +72,10 @@
 
 [Ribbon总结.md](springcloud/Ribbon总结.md)
 
+[Seata术语.md](springcloud/Seata术语.md)
+
+
+
 ### Netty
 
 [Netty使用手册翻译.md](https://github.com/ZhongJinHacker/notes/blob/master/netty/Netty使用手册翻译.md)
