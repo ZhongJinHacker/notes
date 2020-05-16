@@ -1,0 +1,1 @@
+IDEA -> new Project -> JAVA8 -> create from archetype -> maven-archetype-site
