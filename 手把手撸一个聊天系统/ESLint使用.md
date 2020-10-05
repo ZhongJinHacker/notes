@@ -4,6 +4,10 @@
 
 
 
+##### 以下是react的约束模板
+
+
+
 ```json
 {
     // 解析选项
@@ -34,24 +38,26 @@
         "indent": [2, 4, { "SwitchCase": 1 }],
         // 尾随逗号 2 -> error 直接报错； only-multiline 允许但不要求
         "comma-dangle": [2, "only-multiline"],
-        //
+        //函数与括号之间是否有空格：2 -> error; never -> 不允许
         "space-before-function-paren": [2, "never"],
-        //
+        //2->error; before -> 操作符在前
         "operator-linebreak": [2, "before"],
-        //
+        //0->允许
         "no-floating-decimal": [0],
-        //
+        //jsx缩进问题 要求4个空格；2->error
         "react/jsx-indent": [2, 4],
-        //
+        //jsx 中props属性缩进
         "react/jsx-indent-props": [2, 4],
-        //
+        //允许使用布尔值
         "react/jsx-boolean-value": [2, "always"],
-        //
+        // 0 关闭 ，prop-types检查
         "react/prop-types": [0],
-        //
+        // 对所有不包含双引号的jsx属性值 强制使用双引号
         "jsx-quotes": [2, "prefer-double"]
     },
-    //
+    // 扩展配置 
+    // 对应devDependencies的 
+    // eslint-config-standard和eslint-config-standard-react
     "extends": ["standard", "standard-react"]
 }
 
@@ -59,5 +65,13 @@
 
 
 
-参考： https://eslint.org/
+#### 参考： 
+
+https://eslint.org/
+
+https://github.com/yannickcr/eslint-plugin-react
+
+https://cloud.tencent.com/developer/section/1135629
+
+
 
